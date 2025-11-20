@@ -1,5 +1,5 @@
 # devCheese: Cheese Chase Recreation in Unity
-Mimi the mouse is hungry and stuck in a maze. Help her find the cheese but void the evil beetles (int implemented). And watch out for ghosts—the maze is haunted (also not implemented)!
+Mimi the mouse is hungry and stuck in a maze. Help her find the cheese but void the evil beetles (not implemented). And watch out for ghosts—the maze is haunted (also not implemented)!
 
 ## Unity Project Setup: Quick Guide
 This guide covers the necessary steps to clone the repository and open the Unity project.
